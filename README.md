@@ -42,4 +42,4 @@ application support and technical problem-solving.
 
 - LinkedIn: www.linkedin.com/in/mugesh-nithin-r
 - Email: rmugesh.be@gmail.com
-- GitHub: https://github.com/Mugeshnithin
+- GitHub: https://github.com/nithinrvj
